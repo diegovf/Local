@@ -1,0 +1,32 @@
+--------------Código de Supermercado: 232--------------
+Código de producto: 234 Cantidad: 23
+Código de producto: 456 Cantidad: 45
+-------------------------------------------------------
+
+--------------Código de Supermercado: 456--------------
+Código de producto: 126 Cantidad: 4
+-------------------------------------------------------
+
+--------------Código de Supermercado: 232--------------
+Código de producto: 234 Cantidad: 23
+Código de producto: 456 Cantidad: 45
+-------------------------------------------------------
+
+--------------Código de Supermercado: 345--------------
+Código de producto: 567 Cantidad: 90
+-------------------------------------------------------
+
+--------------Código de Supermercado: 232--------------
+Código de producto: 234 Cantidad: 23
+Código de producto: 456 Cantidad: 45
+-------------------------------------------------------
+
+--------------Código de Supermercado: 232--------------
+Código de producto: 234 Cantidad: 23
+Código de producto: 456 Cantidad: 45
+-------------------------------------------------------
+
+--------------Código de Supermercado: 345--------------
+Código de producto: 567 Cantidad: 90
+-------------------------------------------------------
+

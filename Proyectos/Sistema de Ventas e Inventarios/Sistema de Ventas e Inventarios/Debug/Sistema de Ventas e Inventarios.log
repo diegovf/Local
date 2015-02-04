@@ -1,0 +1,25 @@
+﻿Compilación iniciada a las 03/02/2015 18:19:49.
+     1>Proyecto "I:\Diego\Documentos\Visual Studio 2013\Projects\Sistema de Ventas e Inventarios\Sistema de Ventas e Inventarios\Sistema de Ventas e Inventarios.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib ventanaPrincipal.cpp
+         ventanaPrincipal.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\Diego\Documentos\Visual Studio 2013\Projects\Sistema de Ventas e Inventarios\Debug\Sistema de Ventas e Inventarios.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaCantidad.resources /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaCodProducto.resources /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaInfo.resources /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaInfoProducto.resources /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaPrincipal.resources /ASSEMBLYRESOURCE:Debug\SistemadeVentaseInventarios.ventanaSupermercado.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\Diego\Documentos\Visual Studio 2013\Projects\Sistema de Ventas e Inventarios\Debug\Sistema de Ventas e Inventarios.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\arbolAA.obj
+         Debug\arbolavl.obj
+         Debug\arbolB.obj
+         Debug\arbolBB.obj
+         Debug\arbolRN.obj
+         Debug\Bnodo.obj
+         Debug\ventadaCantidad.obj
+         Debug\ventanaCodProducto.obj
+         Debug\ventanaInfo.obj
+         Debug\ventanaInfoProducto.obj
+         Debug\ventanaPrincipal.obj
+         Debug\ventanaSupermercado.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Sistema de Ventas e Inventarios.vcxproj -> I:\Diego\Documentos\Visual Studio 2013\Projects\Sistema de Ventas e Inventarios\Debug\Sistema de Ventas e Inventarios.exe
+     1>Compilación del proyecto terminada "I:\Diego\Documentos\Visual Studio 2013\Projects\Sistema de Ventas e Inventarios\Sistema de Ventas e Inventarios\Sistema de Ventas e Inventarios.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:07.95
