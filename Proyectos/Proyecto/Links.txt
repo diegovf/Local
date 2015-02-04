@@ -1,0 +1,6 @@
+http://www.oracle.com/technetwork/java/dataaccessobject-138824.html -> DAO Pattern
+http://technet.microsoft.com/en-us/library/ms378428.aspx -> Building the Connection URL
+http://msdn.microsoft.com/en-us/library/ms144284.aspx -> Choose an Authentication Mode
+http://technet.microsoft.com/en-us/library/ms378526.aspx -> Using the JDBC Driver
+http://msdn.microsoft.com/en-us/library/ms177440.aspx -> Configure a Server to Listen on a Specific TCP Port (SQL Server Configuration Manager)
+http://software-security.sans.org/developer-how-to/fix-sql-injection-in-java-using-prepared-callable-statement -> How To Fix SQL Injection: Statements

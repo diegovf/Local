@@ -1,0 +1,5 @@
+232;234;Pantalones;23000
+456;126;Papayas;1000
+232;456;Melones;678
+345;567;CDS;300
+232;234;Gelatinas;1200

@@ -1,0 +1,3 @@
+23456;Juan_Campos;Cartago
+45678;Ana_Molina;Perez_Zeledon
+23456;Maria_Cordero;Cartago

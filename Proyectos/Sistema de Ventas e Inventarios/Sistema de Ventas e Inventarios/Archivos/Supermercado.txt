@@ -1,0 +1,5 @@
+232;Pali;Cartago
+456;Maxi_Pali;Tejar
+345;Jumbo;Molino
+123;Pali;Oreamuno
+232;MxM;Molino

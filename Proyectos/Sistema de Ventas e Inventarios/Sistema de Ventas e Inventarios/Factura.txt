@@ -1,0 +1,22 @@
+
+------------------- Inicio Factura -------------------
+Código de Supermercado: 232
+Código de Producto:     234
+Cantidad de Producto:   10
+Costo unitario.         23000
+Total a pagar:          230000
+-------------------- Fin Factura ----------------------
+------------------- Inicio Factura -------------------
+Código de Supermercado: 232
+Código de Producto:     234
+Cantidad de Producto:   10
+Costo unitario.         23000
+Total a pagar:          230000
+-------------------- Fin Factura ----------------------
+------------------- Inicio Factura -------------------
+Código de Supermercado: 232
+Código de Producto:     234
+Cantidad de Producto:   3
+Costo unitario.         23000
+Total a pagar:          69000
+-------------------- Fin Factura ----------------------
