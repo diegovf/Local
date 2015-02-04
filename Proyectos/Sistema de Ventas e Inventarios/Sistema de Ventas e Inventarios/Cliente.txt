@@ -1,8 +1,0 @@
-23456;Juan_Campos;Cartago
-45678;Ana_Molina;Perez_Zeledon
-12345;Maria_Cordero;Cartago
-34567;Diego Varela Flores;Perez Zeledón
-56789;Pedro Perez;Por ahí
-50386;Jesús Ramos;Cartago
-115600801;Diego Varela Flores;Los Angeles_Cartago
-65432;Pedro Alvares;Por ahi

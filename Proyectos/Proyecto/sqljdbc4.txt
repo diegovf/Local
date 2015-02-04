@@ -1,1 +1,0 @@
-Quitar la libreria anterior (va a dar error por la ubicacion de la libreria) y agregar la libreria del sqljdbc4.jar por medio del netbeans
